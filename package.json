@@ -1,0 +1,14 @@
+{
+  "name": "cifrado_cesar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hakon_W",
+  "license": "ISC",
+  "description": "Cesar_Cypher",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
